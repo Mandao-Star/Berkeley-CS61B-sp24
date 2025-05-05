@@ -16,8 +16,6 @@ proj2c/
 proj3/
 
 
-**/*.iml
-**/lab01.iml
 **/out/
 **/tests/
 **/.idea/
